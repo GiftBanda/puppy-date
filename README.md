@@ -1,3 +1,5 @@
+Puppy date is a pet dating site for your puppies developed using React
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
